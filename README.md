@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @deepika0606
-- 👀 I’m interested in persuing my carrer asa software engineering
 - 🌱 I’m currently learning C++, web developement
 - 📫 How to reach me https://www.linkedin.com/in/deepika-garg-891119286/
 - 
