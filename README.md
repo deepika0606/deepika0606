@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deepika0606
-- 🌱 I’m currently learning C++, web developement.
+- 🌱 I’m currently learning C++, Data Structure and Algorithm Internet and Web applications.
 - 📫 How to reach me https://www.linkedin.com/in/deepika-garg-891119286/
-- I have some knowlwdge of circut design
-- 
+- I have some knowledge of circut design
+- I have designed some projects on Web Designing..
   
 
 <!---
